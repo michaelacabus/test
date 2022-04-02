@@ -1,5 +1,5 @@
 body {
-  background: #ffa17f;
+  background: blue;
   background: -webkit-linear-gradient(to right, #00223e, #ffa17f);
   background: linear-gradient(to right, #00223e, #ffa17f);
   overflow: hidden;
